@@ -1,0 +1,72 @@
+body{
+	
+	
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	left: 20%;
+	background-image: url(sbk.jpg);
+
+}
+.leave{
+	margin: 60px ;
+	/*border: 10px solid #fff;*/
+	top: 30%;
+	padding: 50px;
+	border-radius: 0px 50px 0px 50px; 
+	background-color: rgba(0,0,0,.5);
+	box-shadow: 10px 10px red;
+
+
+
+}
+.leave p{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+
+}
+.leave input{
+	width: 20%;
+	margin-bottom: 20px;
+
+}
+
+.leave input[type="textbox"],input[type="password"],input[type="date"]
+
+{
+	border: 2px solid grey;
+	outline: none;
+	height: 30px;
+	font-size: 18px;
+	color: black;
+}
+.leave textarea
+{   
+	border: 2px solid grey;
+	height: 100px;
+	width:50%;
+	font-size: 18px;
+	font-color: black;
+}
+.leave button 
+{   width: 160px;
+	
+	height: 40px;
+	background: skyblue; 
+    color: black;
+    font-size: 25px;
+    
+}
+.leave button:hover
+{
+	cursor: pointer;
+	background: grey;
+}
+.login option{
+	width: 20%;
+	margin-bottom: 20px;
+	height: 50px;
+	font-size: 18px;
+
+}

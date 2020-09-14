@@ -56,7 +56,7 @@
        <form action="login.php" method="post">
           <div class="box">
             <center>
-            <img src="logo2.png" >
+            <img src="" >
             </center>
                <div class="form-body">
                  <h2> <i class="fa fa-envelope" aria-hidden="true" style="color: red;"></i> Email Id</h2>
